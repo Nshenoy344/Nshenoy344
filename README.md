@@ -4,7 +4,7 @@ Robotics Software Engineer specializing in **computer vision & perception** for 
 
 - 💼 Experience building ROS2 perception pipelines at **EBZ Systec GmbH** — object detection , pose estimation, hand-eye calibration, Sim2Real 3D registration
 - 🔭 Currently working on side projects in robotics and computer vision
-- 🎓 M.Sc. thesis: point cloud registration for Sim2Real transfer in industrial robotic cells
+- 🎓 M.Sc. Mechatronics ,  thesis: point cloud registration for Sim2Real transfer in industrial robotic cells
 - 🏆 3rd place, Robocup@Home German Open 2025 (Team Serious Cybernetics Corps)
 - 🛠️ Python · C++ · ROS2 · OpenCV · PyTorch · TensorFlow · ONNX/TensorRT · Docker · Isaac Sim · Gazebo
 - 📍 Weingarten, Germany
