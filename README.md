@@ -11,6 +11,6 @@ Robotics Software Engineer specializing in **computer vision & perception** for 
 - 📫 nshenoy344@gmail.com · [LinkedIn](https://www.linkedin.com/in/nitish-shenoy/)
 
 #### Featured projects
-- [`maskdino_ros2`](https://github.com/Nshenoy344/maskdino_ros2) — ROS2 wrapper for MaskDINO segmentation
+- [`maskdino_ros2`](https://github.com/Nshenoy344/maskdino_ros2) — ROS2 wrapper for MaskDINO
 - [`3D_Sim2real_comparison`](https://github.com/Nshenoy344/3D_Sim2real_comparison) — 3D registration pipeline for Sim2Real layout comparison
-- [`clean_the_table`](https://github.com/Nshenoy344/clean_the_table) — Robocup@Home ROS2 pipeline using a Tiago robot
+- [`clean_the_table`](https://github.com/Nshenoy344/clean_the_table) — Robocup@Home task using a Tiago robot
