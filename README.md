@@ -8,7 +8,7 @@ Robotics Software Engineer specializing in **computer vision & perception** for 
 - 🏆 3rd place, Robocup@Home German Open 2025 (Team Serious Cybernetics Corps)
 - 🛠️ Python · C++ · ROS2 · OpenCV · PyTorch · TensorFlow · ONNX/TensorRT · Docker · Isaac Sim · Gazebo
 - 📍 Weingarten, Germany
--  [LinkedIn](https://www.linkedin.com/in/nitish-shenoy/)
+- 📫 [LinkedIn](https://www.linkedin.com/in/nitish-shenoy/)
 
 #### Featured projects
 - [`maskdino_ros2`](https://github.com/Nshenoy344/maskdino_ros2) — ROS2 wrapper for MaskDINO
